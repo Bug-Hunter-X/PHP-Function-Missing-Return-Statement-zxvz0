@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in PHP: a function missing a return statement. The `bug.php` file shows the problematic code.  The `bugSolution.php` file provides the corrected version.  This simple example illustrates the importance of explicitly returning values from functions for predictable and reliable code.
